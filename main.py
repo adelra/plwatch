@@ -1,4 +1,9 @@
 # use either ELMO or BERT
+# https://github.com/allenai/bilm-tf
+# https://allennlp.org/elmo
+# https://github.com/huggingface/pytorch-pretrained-BERT
+# https://github.com/google-research/bert
+
 # imports
 
 # load weights
