@@ -1,0 +1,2 @@
+# plwatch
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/629ca1921feb46cba30bcefa91f4a102)](https://app.codacy.com/app/adelra/plwatch?utm_source=github.com&utm_medium=referral&utm_content=adelra/plwatch&utm_campaign=Badge_Grade_Dashboard)
